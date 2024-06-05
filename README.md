@@ -2,11 +2,11 @@
 Simulation of a library API with C.R.U.D of books.
 
 ## Tech used
--> Prisma ORM
--> NestJS
--> SQLite
--> Typescript
--> Jest
+<p>-> Prisma ORM</p>
+<p>-> NestJS</p>
+<p>-> SQLite</p>
+<p>-> Typescript</p>
+<p>-> Jest</p>
 
 ## How to use
 run `npm run:dev` to start application
